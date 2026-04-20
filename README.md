@@ -3,6 +3,7 @@
 An Excel-based interactive dashboard analyzing placement outcomes, salary trends, and career patterns for **5,000 engineering students** across multiple branches, college tiers, and skill profiles.
 
 ---
+<img width="1650" height="1275" alt="Dashboard_page-0001" src="https://github.com/user-attachments/assets/395671e1-64e7-4ef4-9346-4beb40f789ac" />
 
 ## 📊 Dashboard Overview
 
